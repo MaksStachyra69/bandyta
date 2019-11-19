@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(123, 0, 175);
+    color: rgba(0, 0, 0, 0.9);
+    font-family: Tahoma, Arial;
+
+}
+
+#ramka {
+    background-color: darkviolet;
+    width: 80%;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    min-height
+}
+
+#pole1,
+#pole2,
+#pole3 {
+    width: 30%;
+    float: left;
+    margin-left: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: 20vw;
+}
+
+#przycisk {
+    clear: both;
+}
+
+button {
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 50px;
+}
+
+#wynik {
+    width: 150px;
+    height: 50px;
+    border: solid rgba(46, 67, 123, 0.9);
+    margin: auto;
+}
